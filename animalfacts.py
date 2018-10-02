@@ -1363,6 +1363,8 @@ LLAMA_FACTS = (
     'Yarn made from llama fiber is soft and lightweight, yet remarkably warm.',
     'The Llamas scientific name is \"Lama Glama\".', 
     'Llamas spit when annoyed.',
+    'A Llama\'s fur is Lanolin-Free'
+    'A male llama is also called a macho'	
     )
 
 MONKEY_FACTS = (
